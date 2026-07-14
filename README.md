@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jiwon-080"/>
+</a>
+
 ## 📊 Projects
 
 ### 1. [부도예측모델] 재무비율·공시텍스트 기반 XGBoost 부도예측모델
@@ -19,7 +23,3 @@
 - GraphRAG를 활용한 개인화 학습 추천
 - 담당: 데이터 수집 파이프라인 설계 및 개
 - 🔗 [Repo](https://github.com/damisoda/Dev-Hive)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiwon-080"/>
-</a>
