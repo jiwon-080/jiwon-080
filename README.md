@@ -2,7 +2,7 @@
   <img src="https://render.gitanimals.org/farms/jiwon-080"/>
 </a>
 
-## 📊 Projects
+## Team Projects
 
 ### 1. [부도예측모델] 재무비율·공시텍스트 기반 XGBoost 부도예측모델
 - DART 공시 재무지표와 텍스트 데이터를 활용해 기업 부도 위험을 예측
